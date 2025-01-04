@@ -71,7 +71,7 @@ Connection closed.
 ```
 Receiving file...
 Received data: Hello, this is a sample text.
--> File transfer complete. Thank you for connecting.
+-> File transfer complete.
 File received successfully.
 ```
 
