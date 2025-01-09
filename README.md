@@ -2,7 +2,7 @@
 
 This project demonstrates a simple client-server application for transferring files using Python's `socket` library. The server sends a file to the client, which receives and saves it locally. Both the server and client log the transfer process in the terminal for easy demonstration.
 
-## Features
+### Features
 - **File Transfer:** Transfer a file from the server to the client.
 - **Real-time Logs:** View logs of data sent (on the server) and received (on the client).
 - **Error Handling:** Handles cases where the file to send does not exist.
@@ -11,6 +11,7 @@ This project demonstrates a simple client-server application for transferring fi
 ## Requirements
 - Python 3.x
 - Basic knowledge of Python
+- Correct driver version 
 
 ## Setup
 
